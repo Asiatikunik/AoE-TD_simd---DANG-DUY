@@ -1,0 +1,2 @@
+Inter(R) Core(TM) i7-7500U CPU 2.70GHz 2.90GHz
+2 coeurs 4 threads
